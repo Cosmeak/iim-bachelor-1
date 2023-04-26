@@ -2,9 +2,17 @@
 
 This website is a project for my first year final defense. The goal of this is to make our first website like a blog with **PHP**, **MySQL**, **HTML**, **CSS** and **JavaScript**.
 
-Please don't use this project in production or other things, it contains a lot of security issues because it was made to learn but you can use the readme to make your own first website and learn with an objective.
+Here's the subject,
+Made a website for an esport team with a least this minimum requirements:
+- A home page with a presentation of the team and an image slider.
+- A team events page.
+- A fake “shop” page in the form of a gallery of images of goodies.
+- A blog page
+- A contact page
 
-No updates will be added to this project. This is a personal archive only.
+⛔️ Please don't use this project in production or other things, it contains a lot of security issues because it was made to learn but you can use the readme to make your own first website and learn with an objective.
+
+⛔️ No updates will be added to this project. This is a personal archive only.
 
 ## Project Goals
 
