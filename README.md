@@ -39,4 +39,11 @@ No updates will be added to this project. This is a personal archive only.
 
 ## Banned Things
 
-TODO
+Any use of one of these elements results is eliminatory and an automatic impossibility to integrate the web development bachelor.
+
+- CMS (Wordpress, etc...)
+- HTML and CSS code generate from a prototyping tool (adobe XD, Figma, etc...)
+- Use a theme find on web (you have to start from scratch)
+- Template Engine (Twig, PUG, etc...)
+- Backend or Frontend framework
+- Toolkits (Bootstrap, etc...)
