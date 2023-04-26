@@ -2,11 +2,13 @@
 
 This website is a project for my first year final defense. The goal of this is to make our first website like a blog with **PHP**, **MySQL**, **HTML**, **CSS** and **JavaScript**.
 
-Please don't use this project in production or other things, it contains a lot of security issues because it was made to learn.
+Please don't use this project in production or other things, it contains a lot of security issues because it was made to learn but you can use the readme to make your own first website and learn with an objective.
 
 No updates will be added to this project. This is a personal archive only.
 
 ## Project Goals
+
+This project must meet several criteria in different categories. (Structure, HTML, CSS, JavaScript and PHP)
 
 ### Structure
 | Main 	| Secondary 	|
@@ -27,7 +29,13 @@ No updates will be added to this project. This is a personal archive only.
 |  	| CSS variables 	|
 
 ### JavaScript
-
+| Main 	| Secondary 	|
+|---	|---	|
+| The contact form must when sending be checked for compliance with the filling. You will have to return an error on the site if there is a problem (indicate the fields that are incorrect) 	| + Check errors in real time and return a custom error (Example: The last name does not must not contain numbers) 	|
+| Creation of an image gallery with a lightbox system 	| + Add a filter system by theme or category to see only the corresponding images and create a masonry effect. 	|
+| Create one or more interaction(s), which allows you to display or hide content on the site (Ex: accordion, toggle). The content to be displayed will come from an external site (twitch, youtube, twitter etc...) via iframes. Smooth animation is required. 	|  	|
+|  	| Made a parallax effect 	|
+|  	| Animate the appearance of elements on the page once the page is loaded 	|
 
 ### PHP
 | Main 	| Secondary 	|
