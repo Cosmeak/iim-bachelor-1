@@ -30,7 +30,7 @@ This project must meet several criteria in different categories. (Structure, HTM
 
 ### JavaScript
 | Main 	| Secondary 	|
-|---	|---	|
+|:---	|:---	|
 | The contact form must when sending be checked for compliance with the filling. You will have to return an error on the site if there is a problem (indicate the fields that are incorrect) 	| + Check errors in real time and return a custom error (Example: The last name does not must not contain numbers) 	|
 | Creation of an image gallery with a lightbox system 	| + Add a filter system by theme or category to see only the corresponding images and create a masonry effect. 	|
 | Create one or more interaction(s), which allows you to display or hide content on the site (Ex: accordion, toggle). The content to be displayed will come from an external site (twitch, youtube, twitter etc...) via iframes. Smooth animation is required. 	|  	|
